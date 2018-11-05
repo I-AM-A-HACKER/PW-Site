@@ -1,0 +1,29 @@
+body {
+    background-image: url("Images/cookies.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Helvetica;
+    margin: 0;
+}
+nav {
+    background-color: black;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+h1 {
+    font-size: 30pt;
+    color: #15ff00;
+}
+h2 {
+    color: black;
+}
+h3 {
+    color: black;
+
+}
+a {
+    color: black;
